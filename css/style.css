@@ -64,7 +64,6 @@ body {
   width: 85%;
   height: 300px;
   margin: 0 auto;
-  /* border: 2px solid green; */
 }
 .bannerone-testo {
   width: 45%;
@@ -96,5 +95,21 @@ a.button-center {
   color: #fff;
   text-transform: uppercase;
   border: 1px solid white ;
-  /* background-color: ; */
+}
+.main-top {
+  height: 150px;
+  width: 100%;
+  background-color: lightgrey;
+}
+h2 {
+  color: black;
+  text-align: center;
+  text-transform: lowercase;
+  padding-top: 30px;
+}
+h3 {
+  color: #808080;
+  text-align: center;
+  text-transform: lowercase;
+  padding-top: 20px;
 }
